@@ -4,6 +4,9 @@ In my energy consumption prediction analysis project, Python played a critical r
 
 # Key Features
 1.) Used Pandas to load and clean the dataset, handling missing values and normalizing data to improve model performance.
+<br>
 2.)Employed Matplotlib and Seaborn to visualize trends, correlations, and seasonal variations in the energy consumption data.
+<br>
 3.)Used Scikit-learn to build several machine learning models, including linear regression, decision trees, and random forests.
+<br>
 4.)Visualized the model’s predictions vs actual energy consumption using line plots, demonstrating the accuracy of the prediction.
