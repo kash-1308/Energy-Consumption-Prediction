@@ -10,3 +10,11 @@ ii) Employed Matplotlib and Seaborn to visualize trends, correlations, and seaso
 iii.) Used Scikit-learn to build several machine learning models, including linear regression, decision trees, and random forests.
 <br>
 iv.) Visualized the model’s predictions vs actual energy consumption using line plots, demonstrating the accuracy of the prediction.
+
+#Installation
+
+To run the app locally,follow the steps:
+Clone the repository:
+
+git clone https://github.com/yourusername/energy-consumption-prediction.git
+cd energy-consumption-prediction
