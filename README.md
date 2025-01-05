@@ -11,7 +11,7 @@ iii.) Used Scikit-learn to build several machine learning models, including line
 <br>
 iv.) Visualized the model’s predictions vs actual energy consumption using line plots, demonstrating the accuracy of the prediction.
 
-#Installation
+# Installation
 
 To run the app locally,follow the steps:
 Clone the repository:
