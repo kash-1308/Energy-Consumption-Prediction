@@ -17,4 +17,5 @@ To run the app locally,follow the steps:
 Clone the repository:
 
 git clone https://github.com/yourusername/energy-consumption-prediction.git
+
 cd energy-consumption-prediction
