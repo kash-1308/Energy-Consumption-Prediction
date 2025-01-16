@@ -13,7 +13,7 @@ iv.) Visualized the model’s predictions vs actual energy consumption using lin
 
 # Installation
 
-To run the app locally,follow the steps:
+To run the app locally : 
 **Cloning the Repository**
 
 ```bash
