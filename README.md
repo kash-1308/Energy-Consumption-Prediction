@@ -14,8 +14,9 @@ iv.) Visualized the model’s predictions vs actual energy consumption using lin
 # Installation
 
 To run the app locally,follow the steps:
-Clone the repository:
+**Cloning the Repository**
 
-git clone https://github.com/yourusername/energy-consumption-prediction.git
-
-cd energy-consumption-prediction
+```bash
+git clone https://github.com/kash-1308/Energy-Consumption-Prediction.git
+cd Energy-Consumption-Prediction
+```
